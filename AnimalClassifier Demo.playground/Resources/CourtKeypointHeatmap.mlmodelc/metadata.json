@@ -1,0 +1,65 @@
+[
+  {
+    "shortDescription" : "Court keypoints detector",
+    "metadataOutputVersion" : "3.0",
+    "outputSchema" : [
+      {
+        "hasShapeFlexibility" : "0",
+        "isOptional" : "0",
+        "dataType" : "Double",
+        "formattedType" : "MultiArray (Double 12 × 256 × 256)",
+        "shortDescription" : "Output keypoint heatmaps",
+        "shape" : "[12, 256, 256]",
+        "name" : "heatmaps",
+        "type" : "MultiArray"
+      }
+    ],
+    "version" : "",
+    "modelParameters" : [
+
+    ],
+    "author" : "NEX Team Inc.",
+    "specificationVersion" : 2,
+    "license" : "",
+    "isUpdatable" : "0",
+    "availability" : {
+      "macOS" : "10.13.2",
+      "tvOS" : "11.2",
+      "watchOS" : "4.2",
+      "iOS" : "11.2",
+      "macCatalyst" : "11.2"
+    },
+    "modelType" : {
+      "name" : "MLModelType_neuralNetwork"
+    },
+    "inputSchema" : [
+      {
+        "height" : "256",
+        "colorspace" : "BGR",
+        "isOptional" : "0",
+        "width" : "256",
+        "isColor" : "1",
+        "formattedType" : "Image (Color 256 × 256)",
+        "hasSizeFlexibility" : "0",
+        "type" : "Image",
+        "shortDescription" : "Input image",
+        "name" : "image"
+      }
+    ],
+    "userDefinedMetadata" : {
+      "coremltoolsVersion" : "3.2"
+    },
+    "generatedClassName" : "CourtKeypointHeatmap",
+    "neuralNetworkLayerTypeHistogram" : {
+      "ActivationLinear" : 1,
+      "ActivationReLU" : 85,
+      "UpsampleBiLinear" : 8,
+      "Add" : 29,
+      "PoolingAverage" : 8,
+      "BatchNorm" : 85,
+      "Convolution" : 128,
+      "ActivationSigmoid" : 1
+    },
+    "method" : "predict"
+  }
+]

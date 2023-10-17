@@ -1,0 +1,298 @@
+{
+  "layer_shapes" : {
+    "flatten_3_output" : {
+      "k" : 48,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_2__activation___output" : {
+      "k" : 24,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_8__activation___output" : {
+      "k" : 24,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "featureVectors__fix__underflow_____conv2d_6" : {
+      "k" : 1280,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_5__activation___output" : {
+      "k" : 24,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "flatten_4_output" : {
+      "k" : 48,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "conv2d_9__activation___output" : {
+      "k" : 16,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "conv2d_4__activation___output" : {
+      "k" : 16,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_13__activation___output" : {
+      "k" : 128,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "featureVectors__fix__underflow_____conv2d_5" : {
+      "k" : 1280,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "flatten_10_output" : {
+      "k" : 48,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "featureVectors__fix__underflow_____conv2d_12" : {
+      "k" : 1280,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "flatten_5_output" : {
+      "k" : 48,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_3__activation___output" : {
+      "k" : 24,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_9__activation___output" : {
+      "k" : 24,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "conv2d_5__activation___output" : {
+      "k" : 16,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_6__activation___output" : {
+      "k" : 24,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "conv2d_1__activation___output" : {
+      "k" : 16,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "flatten_6_output" : {
+      "k" : 48,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "flatten_12_output" : {
+      "k" : 48,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "featureVectors__fix__underflow_____conv2d_3" : {
+      "k" : 1280,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "conv2d_6__activation___output" : {
+      "k" : 16,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "flatten_7_output" : {
+      "k" : 48,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_10__activation___output" : {
+      "k" : 24,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "conv2d_10__activation___output" : {
+      "k" : 16,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "conv2d_2__activation___output" : {
+      "k" : 16,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "conv2d_11__activation___output" : {
+      "k" : 16,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "featureVectors__fix__underflow_____conv2d_9" : {
+      "k" : 1280,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "featureVectors__fix__underflow_____conv2d_2" : {
+      "k" : 1280,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "conv2d_12__activation___output" : {
+      "k" : 16,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "flatten_8_output" : {
+      "k" : 48,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "flatten_1_output" : {
+      "k" : 48,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "featureVectors" : {
+      "k" : 1280,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "conv2d_7__activation___output" : {
+      "k" : 16,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_1__activation___output" : {
+      "k" : 24,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_4__activation___output" : {
+      "k" : 24,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "featureVectors__fix__underflow_____conv2d_8" : {
+      "k" : 1280,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_7__activation___output" : {
+      "k" : 24,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "conv2d_3__activation___output" : {
+      "k" : 16,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_11__activation___output" : {
+      "k" : 24,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "flatten_9_output" : {
+      "k" : 48,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "flatten_11_output" : {
+      "k" : 48,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "flatten_2_output" : {
+      "k" : 48,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_14_output" : {
+      "k" : 3,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "featureVectors__fix__underflow_____conv2d_7" : {
+      "k" : 1280,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "conv2d_8__activation___output" : {
+      "k" : 16,
+      "w" : 3,
+      "n" : 1,
+      "h" : 1
+    },
+    "concatenate_1_output" : {
+      "k" : 288,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "classProbabilities" : {
+      "k" : 3,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_12__activation___output" : {
+      "k" : 24,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    }
+  }
+}

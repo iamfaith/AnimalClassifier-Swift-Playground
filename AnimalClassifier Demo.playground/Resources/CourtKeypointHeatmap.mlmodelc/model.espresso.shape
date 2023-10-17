@@ -1,0 +1,1702 @@
+{
+  "layer_shapes" : {
+    "unet0_r5_conv2_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_l8_residual_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "stem_block2_conv1_act_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r6_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_m0_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "stem_block2_conv2_act_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r2_conv2_act_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_r1_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r8_up_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_r4_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_r3_conv2_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "stem_block1_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l3_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_l2_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_r3_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_r4_skip_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_m2_residual_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_r7_conv1_act_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_r7_up_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_l3_residual_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_r1_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r4_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_l1_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l3_conv1_act_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_r2_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_l6_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_r6_residual_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_m2_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_m1_conv2_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_r5_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "stem_block1_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r6_conv2_act_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_m0_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_r6_up_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_r2_conv1_act_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_r2_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_l2_conv2_act_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_m2_conv2_act_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_l2_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_l4_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "stem_block1_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r8_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_r3_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_r7_skip_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_l2_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_r7_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "stem_block2_conv2_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l5_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_r5_up_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_r1_residual_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r6_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_l7_conv1_act_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_r1_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l8_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l1_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r2_up_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_r2_skip_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "stem_block2_residual_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l5_down_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_l7_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_l7_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_r4_up_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_r6_conv1_act_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_l8_conv2_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l6_conv2_act_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_l4_residual_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_l1_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r2_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_m2_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_r2_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_m2_conv1_act_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_l3_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_r1_up_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l6_conv2_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_head_act_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_m1_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_l4_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_m1_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_r3_up_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_l8_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l4_conv2_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_r7_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "stem_block2_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r1_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r1_conv2_act_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l2_conv2_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_l3_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_r5_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_m0_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_r2_residual_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_r1_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "stem_block2_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l1_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r5_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_l7_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_m2_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_l8_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l7_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_l2_conv1_act_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_r8_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l1_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r7_residual_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "stem_block2_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r3_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_r5_conv2_act_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_l5_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_r2_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_l7_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_r1_conv1_act_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l1_conv2_act_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_m1_conv2_act_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_l8_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_r5_skip_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_r8_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l5_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_m2_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_l8_down_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_l3_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_l3_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_r7_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_r4_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_r8_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_m1_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_r6_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_l6_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_l6_conv1_act_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_r7_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_l3_down_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_r6_conv2_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_l5_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "stem_block1_residual_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_m0_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_r6_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_m2_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_cmap__activation___output" : {
+      "k" : 12,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r4_conv2_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_r5_conv1_act_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_l7_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_l5_residual_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_l5_conv2_act_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_r3_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_head_bn_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r8_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l1_conv1_act_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_m1_conv1_act_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_r2_conv2_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_r1_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r8_residual_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_m0_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_m2_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_r2_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_r4_conv2_act_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_m0_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "stem_block2_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r6_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_m0_conv2_act_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "stem_block1_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l6_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_r2_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_r8_conv2_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l4_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_m1_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_r6_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "image" : {
+      "k" : 3,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r3_residual_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_l5_conv1_act_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "stem_block2_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r4_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_r8_skip_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_r4_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_l1_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_m2_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_l6_residual_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_r4_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_r6_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_r3_skip_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_l5_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_l4_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_l6_down_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_r2_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_l4_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_r8_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_m2_conv2_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "stem_block2_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_m0_conv2_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_l2_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_l6_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "stem_block1_conv2_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l1_down_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_l8_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l1_residual_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r7_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_r8_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l6_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_r7_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "stem_block1_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "stem_block2_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r4_residual_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_m0_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_l2_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_l3_conv2_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_r8_conv2_act_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l4_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_l6_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_r5_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_r4_conv1_act_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_l4_conv2_act_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_l8_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l1_conv2_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r3_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_m0_conv1_act_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_m1_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_m0_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "stem_block1_conv2_act_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l4_down_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_l5_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_cmap_output" : {
+      "k" : 12,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r3_conv2_act_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_r6_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "stem_block2_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r1_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l7_conv2_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_m0_residual_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_r7_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_l7_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_l3_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_l5_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_l5_conv2_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_r4_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_r8_conv1_act_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_m1_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_l1_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l8_conv2_act_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l2_residual_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_r6_skip_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_r5_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_r8_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l4_conv1_act_output" : {
+      "k" : 76,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "stem_conv1_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_m1_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_l4_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_r1_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l6_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_r7_conv2_act_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_r5_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_l2_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_l5_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "stem_block1_conv1_act_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r7_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_r1_skip_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l3_conv2_act_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_l7_residual_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_r5_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_l2_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_l2_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "unet0_r3_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_r3_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_r3_conv2_output_intermin_" : {
+      "k" : 152,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_l8_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l3_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_l8_conv1_act_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_l4_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_m1_residual_output" : {
+      "k" : 76,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_l8_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "stem_block1_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_r5_conv2_exp_act_output" : {
+      "k" : 152,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_r4_conv1_output_intermin_" : {
+      "k" : 152,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "unet0_r1_conv2_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l6_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "unet0_l7_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "unet0_l7_down_output" : {
+      "k" : 76,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "unet0_r5_residual_output" : {
+      "k" : 76,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "unet0_l7_conv2_act_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "heatmaps" : {
+      "k" : 12,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "stem_block1_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_m2_conv2_exp_bn_output" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_m1_conv1_exp_act_output" : {
+      "k" : 152,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "unet0_r3_conv1_act_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_r7_conv2_output" : {
+      "k" : 76,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "stem_block1_conv1_exp_bn_output" : {
+      "k" : 152,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "unet0_l3_conv2_bn_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_l2_down_output" : {
+      "k" : 76,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "unet0_l1_conv1_bn_output" : {
+      "k" : 76,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    }
+  }
+}

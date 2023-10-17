@@ -1,0 +1,65 @@
+[
+  {
+    "shortDescription" : "Backbone network for make-miss detector",
+    "metadataOutputVersion" : "3.0",
+    "outputSchema" : [
+      {
+        "hasShapeFlexibility" : "0",
+        "isOptional" : "0",
+        "dataType" : "Double",
+        "formattedType" : "MultiArray (Double 1280)",
+        "shortDescription" : "Feature Vector (1280)",
+        "shape" : "[1280]",
+        "name" : "featureVector",
+        "type" : "MultiArray"
+      }
+    ],
+    "version" : "",
+    "modelParameters" : [
+
+    ],
+    "author" : "NEX Team",
+    "specificationVersion" : 2,
+    "license" : "",
+    "isUpdatable" : "0",
+    "availability" : {
+      "macOS" : "10.13.2",
+      "tvOS" : "11.2",
+      "watchOS" : "4.2",
+      "iOS" : "11.2",
+      "macCatalyst" : "11.2"
+    },
+    "modelType" : {
+      "name" : "MLModelType_neuralNetwork"
+    },
+    "inputSchema" : [
+      {
+        "height" : "96",
+        "colorspace" : "RGB",
+        "isOptional" : "0",
+        "width" : "96",
+        "isColor" : "1",
+        "formattedType" : "Image (Color 96 × 96)",
+        "hasSizeFlexibility" : "0",
+        "type" : "Image",
+        "shortDescription" : "Input image (96 x 96 x 3)",
+        "name" : "image"
+      }
+    ],
+    "userDefinedMetadata" : {
+      "coremltoolsVersion" : "3.1"
+    },
+    "generatedClassName" : "MakeMissBase",
+    "neuralNetworkLayerTypeHistogram" : {
+      "ActivationLinear" : 70,
+      "ActivationReLU" : 35,
+      "Add" : 10,
+      "PoolingAverage" : 1,
+      "UnaryThreshold" : 35,
+      "BatchNorm" : 52,
+      "Convolution" : 52,
+      "PaddingConstant" : 5
+    },
+    "method" : "predict"
+  }
+]
